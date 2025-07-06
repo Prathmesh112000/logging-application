@@ -1,0 +1,16 @@
+[
+  {
+    "level": "warn",
+    "message": "High memory usage detected on instance i-abc123",
+    "resourceId": "server-7890",
+    "timestamp": "2025-07-07T10:15:00Z",
+    "traceId": "trace-9999",
+    "spanId": "span-8888",
+    "commit": "abcd4567",
+    "metadata": {
+      "instanceType": "t3.large",
+      "memoryUsage": "92%",
+      "threshold": "90%"
+    }
+  }
+]
